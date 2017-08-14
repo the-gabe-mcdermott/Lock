@@ -1,4 +1,4 @@
-A simple script for encrypting and decrypting a single file.
+A simple Bash script for encrypting and decrypting a single file.
 
 Use:
   First argument:
